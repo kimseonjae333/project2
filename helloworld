@@ -1,3 +1,4 @@
 public static void main(String{} arg){
-    system.out.println("hello world!")
+    String s1 = "helllo world!";
+    system.out.println(s1);
 }
